@@ -1,4 +1,4 @@
-const SECRET_KEY = 'YOUR_CUSTOM_PASSWORD_HERE'; // 请修改为你自己的复杂密钥，并与 Cloudflare Worker 或Cloudflare Pages中的 SECRET_KEY 保持完全一致
+const SECRET_KEY = 'rhl98402489'; // 请修改为你自己的复杂密钥，并与 Cloudflare Worker 或Cloudflare Pages中的 SECRET_KEY 保持完全一致
 
 export default onRequest;
 
